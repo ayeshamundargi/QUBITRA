@@ -1,0 +1,4 @@
+shipment_id,vendor,cargo_weight,temperature,date,status,approver
+SHIP-884,CryoMed Pharma,420 kg,-70 C,2026-11-10,Cleared,Dr. R. Nair
+SHIP-912,AeroCore Systems,1150 kg,4 C,2026-11-12,Cleared,K. Menon
+CARGO-X9,Vanguard Bio,890 kg,-20 C,2026-11-15,Hold,

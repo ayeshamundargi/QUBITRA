@@ -1,0 +1,182 @@
+[
+  {
+    "edge_id": "edge_0001",
+    "claim_a_id": "clm_src_b1bec5ee708d_0001",
+    "claim_b_id": "clm_src_aaf3f39e01e9_0004",
+    "edge_type": "SUPERSEDES",
+    "confidence": 0.95,
+    "reason": "Temporal amendment ($5,200 on 2026-04-02) supersedes prior record ($4,500 on 2026-03-15).",
+    "detector": "temporal"
+  },
+  {
+    "edge_id": "edge_0002",
+    "claim_a_id": "clm_src_b1bec5ee708d_0001",
+    "claim_b_id": "clm_src_3bce98178712_0006",
+    "edge_type": "SUPERSEDES",
+    "confidence": 0.95,
+    "reason": "Temporal amendment ($5,200 on 2026-04-02) supersedes prior record (4500 on 2026-03-15).",
+    "detector": "temporal"
+  },
+  {
+    "edge_id": "edge_0003",
+    "claim_a_id": "clm_src_b1bec5ee708d_0002",
+    "claim_b_id": "clm_src_aaf3f39e01e9_0004",
+    "edge_type": "SUPERSEDES",
+    "confidence": 0.95,
+    "reason": "Temporal amendment ($5,200 on 2026-04-02) supersedes prior record ($4,500 on 2026-03-15).",
+    "detector": "temporal"
+  },
+  {
+    "edge_id": "edge_0004",
+    "claim_a_id": "clm_src_b1bec5ee708d_0002",
+    "claim_b_id": "clm_src_3bce98178712_0006",
+    "edge_type": "SUPERSEDES",
+    "confidence": 0.95,
+    "reason": "Temporal amendment ($5,200 on 2026-04-02) supersedes prior record (4500 on 2026-03-15).",
+    "detector": "temporal"
+  },
+  {
+    "edge_id": "edge_0005",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0004",
+    "claim_b_id": "clm_src_3bce98178712_0006",
+    "edge_type": "SUPPORTS",
+    "confidence": 0.95,
+    "reason": "Numeric agreement: $4,500 matches 4500.",
+    "detector": "numeric"
+  },
+  {
+    "edge_id": "edge_0006",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0001",
+    "claim_b_id": "clm_src_3bce98178712_0001",
+    "edge_type": "SUPPORTS",
+    "confidence": 0.95,
+    "reason": "Numeric agreement: $12,000 matches 12000.",
+    "detector": "numeric"
+  },
+  {
+    "edge_id": "edge_0007",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0001",
+    "claim_b_id": "clm_src_c6d8cb7b8af6_0004",
+    "edge_type": "CONTRADICTS",
+    "confidence": 0.95,
+    "reason": "Numeric mismatch: $12,000.00 vs $18,000.00 (delta $6,000.00).",
+    "detector": "numeric"
+  },
+  {
+    "edge_id": "edge_0008",
+    "claim_a_id": "clm_src_3bce98178712_0001",
+    "claim_b_id": "clm_src_c6d8cb7b8af6_0004",
+    "edge_type": "CONTRADICTS",
+    "confidence": 0.95,
+    "reason": "Numeric mismatch: $12,000.00 vs $18,000.00 (delta $6,000.00).",
+    "detector": "numeric"
+  },
+  {
+    "edge_id": "edge_0009",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0002",
+    "claim_b_id": "clm_src_3bce98178712_0002",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Apex Logistics' ~ 'Apex Logistics'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0010",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0002",
+    "claim_b_id": "clm_src_c6d8cb7b8af6_0001",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Apex Logistics' ~ 'Apex Logistics'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0011",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0002",
+    "claim_b_id": "clm_src_7539b95e6bad_0001",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Apex Logistics' ~ 'Apex Logistics'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0012",
+    "claim_a_id": "clm_src_3bce98178712_0002",
+    "claim_b_id": "clm_src_c6d8cb7b8af6_0001",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Apex Logistics' ~ 'Apex Logistics'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0013",
+    "claim_a_id": "clm_src_3bce98178712_0002",
+    "claim_b_id": "clm_src_7539b95e6bad_0001",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Apex Logistics' ~ 'Apex Logistics'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0014",
+    "claim_a_id": "clm_src_c6d8cb7b8af6_0001",
+    "claim_b_id": "clm_src_7539b95e6bad_0001",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Apex Logistics' ~ 'Apex Logistics'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0015",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0003",
+    "claim_b_id": "clm_src_3bce98178712_0005",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Approved' ~ 'Approved'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0016",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0005",
+    "claim_b_id": "clm_src_3bce98178712_0007",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Helios Labs' ~ 'Helios Labs'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0017",
+    "claim_a_id": "clm_src_aaf3f39e01e9_0006",
+    "claim_b_id": "clm_src_3bce98178712_0010",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Approved' ~ 'Approved'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0018",
+    "claim_a_id": "clm_src_3bce98178712_0004",
+    "claim_b_id": "clm_src_7539b95e6bad_0004",
+    "edge_type": "CONTRADICTS",
+    "confidence": 0.9,
+    "reason": "Categorical conflict on 'approver': 'J. Doe' vs 'Field Representative'.",
+    "detector": "lexical"
+  },
+  {
+    "edge_id": "edge_0019",
+    "claim_a_id": "clm_src_3bce98178712_0011",
+    "claim_b_id": "clm_src_7ec4a1caad68_0002",
+    "edge_type": "SUPPORTS",
+    "confidence": 0.95,
+    "reason": "Numeric agreement: 95000 matches $95,000.00.",
+    "detector": "numeric"
+  },
+  {
+    "edge_id": "edge_0020",
+    "claim_a_id": "clm_src_3bce98178712_0012",
+    "claim_b_id": "clm_src_7ec4a1caad68_0001",
+    "edge_type": "SUPPORTS",
+    "confidence": 1.0,
+    "reason": "Lexical agreement (100.0%): 'Vendor K' ~ 'Ve ndor K'.",
+    "detector": "lexical"
+  }
+]

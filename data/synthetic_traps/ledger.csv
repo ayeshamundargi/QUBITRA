@@ -1,0 +1,4 @@
+invoice_id,amount,vendor,date,approver,status
+INV-402,12000,Apex Logistics,2026-03-10,J. Doe,Approved
+INV-510,4500,Helios Labs,2026-03-15,A. Smith,Approved
+WIRE-Q4,95000,Vendor K,2026-03-20,,Pending

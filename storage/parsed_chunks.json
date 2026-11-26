@@ -1,0 +1,596 @@
+[
+  {
+    "chunk_id": "src_b1bec5ee708d_pdf_0001",
+    "source_id": "src_b1bec5ee708d",
+    "modality": "PDF",
+    "text": "OFFICIAL CONTRACT ADDENDUM & AMENDMENT MEMORANDUM\nDate: 2026-04-02\nIssuing Authority: Corporate Procurement Directorate\nSubject: Authorized Adjustment for INV-510 (Helios Labs)",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        60.17499923706055,
+        400.1629638671875,
+        120.63104248046875
+      ],
+      "char_span": null,
+      "snippet": "OFFICIAL CONTRACT ADDENDUM & AMENDMENT MEMORANDUM\nDate: 2026-04-02\nIssuing Authority: Corporate Procurement Directorate\nSubject: Authorized Adjustment for INV-5"
+    },
+    "extraction_confidence": 0.95,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_b1bec5ee708d_pdf_0002",
+    "source_id": "src_b1bec5ee708d",
+    "modality": "PDF",
+    "text": "Pursuant to Section 4.2 revision of extended analytical deliverables,\nthe authorized payable total for INV-510 is officially amended from $4,500 to $5,200.",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        135.7450714111328,
+        460.2669982910156,
+        165.97308349609375
+      ],
+      "char_span": null,
+      "snippet": "Pursuant to Section 4.2 revision of extended analytical deliverables,\nthe authorized payable total for INV-510 is officially amended from $4,500 to $5,200."
+    },
+    "extraction_confidence": 0.95,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_b1bec5ee708d_pdf_0003",
+    "source_id": "src_b1bec5ee708d",
+    "modality": "PDF",
+    "text": "LEGAL PRECEDENCE CLAUSE:\nThis binding memorandum supersedes all prior quotes, purchase order estimates,\nand preliminary approvals for INV-510, specifically including the $4,500 record\ndated 2026-03-15. The final approved expenditure is $5,200.",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        181.0871124267578,
+        448.595947265625,
+        241.54315185546875
+      ],
+      "char_span": null,
+      "snippet": "LEGAL PRECEDENCE CLAUSE:\nThis binding memorandum supersedes all prior quotes, purchase order estimates,\nand preliminary approvals for INV-510, specifically incl"
+    },
+    "extraction_confidence": 0.95,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_aaf3f39e01e9_pdf_0001",
+    "source_id": "src_aaf3f39e01e9",
+    "modality": "PDF",
+    "text": "From: finance-approvals@corp-audit.local\nTo: disbursements@corp-audit.local\nDate: 2026-03-10 14:22:00 UTC\nSubject: Executive Approval Notice - Invoice 402 & Initial Estimates",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        60.17499923706055,
+        377.6899719238281,
+        120.63104248046875
+      ],
+      "char_span": null,
+      "snippet": "From: finance-approvals@corp-audit.local\nTo: disbursements@corp-audit.local\nDate: 2026-03-10 14:22:00 UTC\nSubject: Executive Approval Notice - Invoice 402 & Ini"
+    },
+    "extraction_confidence": 0.95,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_aaf3f39e01e9_pdf_0002",
+    "source_id": "src_aaf3f39e01e9",
+    "modality": "PDF",
+    "text": "This official email confirms that Invoice 402 from Apex Logistics has been\nduly reviewed and approved at $12,000 on 2026-03-10.\nPurchase Order Reference: PO-984.",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        135.7450714111328,
+        407.0269775390625,
+        181.08709716796875
+      ],
+      "char_span": null,
+      "snippet": "This official email confirms that Invoice 402 from Apex Logistics has been\nduly reviewed and approved at $12,000 on 2026-03-10.\nPurchase Order Reference: PO-984"
+    },
+    "extraction_confidence": 0.95,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_aaf3f39e01e9_pdf_0003",
+    "source_id": "src_aaf3f39e01e9",
+    "modality": "PDF",
+    "text": "For record keeping, preliminary quotation for INV-510 from Helios Labs\nwas recorded and initially approved at $4,500 on 2026-03-15.",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        196.2011260986328,
+        395.3999328613281,
+        226.42913818359375
+      ],
+      "char_span": null,
+      "snippet": "For record keeping, preliminary quotation for INV-510 from Helios Labs\nwas recorded and initially approved at $4,500 on 2026-03-15."
+    },
+    "extraction_confidence": 0.95,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_3bce98178712_row_0001",
+    "source_id": "src_3bce98178712",
+    "modality": "TABLE",
+    "text": "invoice_id: INV-402 | amount: 12000 | vendor: Apex Logistics | date: 2026-03-10 | approver: J. Doe | status: Approved",
+    "location_ref": {
+      "page": null,
+      "row": 1,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-402 | amount: 12000 | vendor: Apex Logistics | date: 2026-03-10 | approver: J. Doe | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_3bce98178712_row_0002",
+    "source_id": "src_3bce98178712",
+    "modality": "TABLE",
+    "text": "invoice_id: INV-510 | amount: 4500 | vendor: Helios Labs | date: 2026-03-15 | approver: A. Smith | status: Approved",
+    "location_ref": {
+      "page": null,
+      "row": 2,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-510 | amount: 4500 | vendor: Helios Labs | date: 2026-03-15 | approver: A. Smith | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_3bce98178712_row_0003",
+    "source_id": "src_3bce98178712",
+    "modality": "TABLE",
+    "text": "invoice_id: WIRE-Q4 | amount: 95000 | vendor: Vendor K | date: 2026-03-20 | approver: [MISSING] | status: Pending",
+    "location_ref": {
+      "page": null,
+      "row": 3,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: WIRE-Q4 | amount: 95000 | vendor: Vendor K | date: 2026-03-20 | approver: [MISSING] | status: Pending"
+    },
+    "extraction_confidence": 0.99,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0001",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "APEXLOGISTICSSERVICESINC",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        40.0,
+        187.0,
+        52.0
+      ],
+      "char_span": null,
+      "snippet": "APEXLOGISTICSSERVICESINC"
+    },
+    "extraction_confidence": 0.9192,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0002",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "Official Proof of Delivery  Service Receipt",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        38.0,
+        69.0,
+        232.0,
+        84.0
+      ],
+      "char_span": null,
+      "snippet": "Official Proof of Delivery  Service Receipt"
+    },
+    "extraction_confidence": 0.9335,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0003",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "InvoiceReference:Inv#402",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        120.0,
+        172.0,
+        132.0
+      ],
+      "char_span": null,
+      "snippet": "InvoiceReference:Inv#402"
+    },
+    "extraction_confidence": 0.9049,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0004",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "Date: 2026-03-10",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        150.0,
+        120.0,
+        162.0
+      ],
+      "char_span": null,
+      "snippet": "Date: 2026-03-10"
+    },
+    "extraction_confidence": 0.8636,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0005",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "Vendor: Apex Logistics",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        38.0,
+        179.0,
+        145.0,
+        194.0
+      ],
+      "char_span": null,
+      "snippet": "Vendor: Apex Logistics"
+    },
+    "extraction_confidence": 0.9233,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0006",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "FreightTransportServices",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        39.0,
+        240.0,
+        166.0,
+        253.0
+      ],
+      "char_span": null,
+      "snippet": "FreightTransportServices"
+    },
+    "extraction_confidence": 0.9303,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0007",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "$11,000.00",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        479.0,
+        239.0,
+        535.0,
+        253.0
+      ],
+      "char_span": null,
+      "snippet": "$11,000.00"
+    },
+    "extraction_confidence": 0.8418,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0008",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "RegulatoryFuel Surcharge:",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        271.0,
+        169.0,
+        283.0
+      ],
+      "char_span": null,
+      "snippet": "RegulatoryFuel Surcharge:"
+    },
+    "extraction_confidence": 0.9351,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0009",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "$1,000.00",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        479.0,
+        269.0,
+        528.0,
+        283.0
+      ],
+      "char_span": null,
+      "snippet": "$1,000.00"
+    },
+    "extraction_confidence": 0.8505,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0010",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "Total AmountCharged:",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        329.0,
+        148.0,
+        343.0
+      ],
+      "char_span": null,
+      "snippet": "Total AmountCharged:"
+    },
+    "extraction_confidence": 0.8877,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_c6d8cb7b8af6_ocr_0011",
+    "source_id": "src_c6d8cb7b8af6",
+    "modality": "IMAGE",
+    "text": "$18,000.00",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        479.0,
+        329.0,
+        535.0,
+        343.0
+      ],
+      "char_span": null,
+      "snippet": "$18,000.00"
+    },
+    "extraction_confidence": 0.8204,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7539b95e6bad_pdf_0001",
+    "source_id": "src_7539b95e6bad",
+    "modality": "PDF",
+    "text": "VENDOR SHIPMENT ADVICE & NOTES\nVendor: Apex Logistics\nDocument: Delivery Note 402-A\nRelated Invoice: INV-402\nDate: 2026-03-11",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        60.17499923706055,
+        252.31202697753906,
+        135.74505615234375
+      ],
+      "char_span": null,
+      "snippet": "VENDOR SHIPMENT ADVICE & NOTES\nVendor: Apex Logistics\nDocument: Delivery Note 402-A\nRelated Invoice: INV-402\nDate: 2026-03-11"
+    },
+    "extraction_confidence": 0.95,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7539b95e6bad_pdf_0002",
+    "source_id": "src_7539b95e6bad",
+    "modality": "PDF",
+    "text": "Field Representative Log:\nConsignment arrived at regional depot dock 4 at 08:30.\nAll shipping pallets inspected and found free of water or transit damage.\nBill of lading verified against internal requisition PO-984.",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        150.8590850830078,
+        399.1180114746094,
+        211.31512451171875
+      ],
+      "char_span": null,
+      "snippet": "Field Representative Log:\nConsignment arrived at regional depot dock 4 at 08:30.\nAll shipping pallets inspected and found free of water or transit damage.\nBill "
+    },
+    "extraction_confidence": 0.95,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7ec4a1caad68_ocr_0001",
+    "source_id": "src_7ec4a1caad68",
+    "modality": "SCAN",
+    "text": "GLOBAL WIRE SETTLEMENTCLEARINGHOUSE",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        41.0,
+        258.0,
+        52.0
+      ],
+      "char_span": null,
+      "snippet": "GLOBAL WIRE SETTLEMENTCLEARINGHOUSE"
+    },
+    "extraction_confidence": 0.5721,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7ec4a1caad68_ocr_0002",
+    "source_id": "src_7ec4a1caad68",
+    "modality": "SCAN",
+    "text": "Urgent Wire Transfer Authorization Slip",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        39.0,
+        70.0,
+        225.0,
+        83.0
+      ],
+      "char_span": null,
+      "snippet": "Urgent Wire Transfer Authorization Slip"
+    },
+    "extraction_confidence": 0.5721,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7ec4a1caad68_ocr_0003",
+    "source_id": "src_7ec4a1caad68",
+    "modality": "SCAN",
+    "text": "Transaction ID. WIRE-Q4",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        39.0,
+        120.0,
+        153.0,
+        133.0
+      ],
+      "char_span": null,
+      "snippet": "Transaction ID. WIRE-Q4"
+    },
+    "extraction_confidence": 0.5721,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7ec4a1caad68_ocr_0004",
+    "source_id": "src_7ec4a1caad68",
+    "modality": "SCAN",
+    "text": "Be neficiary Name: Ve ndor K",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        151.0,
+        171.0,
+        162.0
+      ],
+      "char_span": null,
+      "snippet": "Be neficiary Name: Ve ndor K"
+    },
+    "extraction_confidence": 0.5721,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7ec4a1caad68_ocr_0005",
+    "source_id": "src_7ec4a1caad68",
+    "modality": "SCAN",
+    "text": "Disburse me nt Principal: $95,000.00 USD",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        181.0,
+        230.0,
+        192.0
+      ],
+      "char_span": null,
+      "snippet": "Disburse me nt Principal: $95,000.00 USD"
+    },
+    "extraction_confidence": 0.5721,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7ec4a1caad68_ocr_0006",
+    "source_id": "src_7ec4a1caad68",
+    "modality": "SCAN",
+    "text": "Execution Date: 2026-03-20",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        211.0,
+        168.0,
+        222.0
+      ],
+      "char_span": null,
+      "snippet": "Execution Date: 2026-03-20"
+    },
+    "extraction_confidence": 0.5721,
+    "sanitized": true
+  },
+  {
+    "chunk_id": "src_7ec4a1caad68_ocr_0007",
+    "source_id": "src_7ec4a1caad68",
+    "modality": "SCAN",
+    "text": "Authorized Approver Signature:",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        39.0,
+        260.0,
+        188.0,
+        273.0
+      ],
+      "char_span": null,
+      "snippet": "Authorized Approver Signature:"
+    },
+    "extraction_confidence": 0.5721,
+    "sanitized": true
+  }
+]

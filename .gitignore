@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyc
+.DS_Store
+.env
+PPT_CONTEXT.md
+*.log
+.agents/
+.claude/
+storage/chromadb/
+data/raw/*
+!data/raw/.gitkeep

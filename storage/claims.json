@@ -1,0 +1,884 @@
+[
+  {
+    "claim_id": "clm_src_b1bec5ee708d_0001",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "amount",
+    "value": "$5,200",
+    "numeric_value": 5200.0,
+    "unit": "USD",
+    "timestamp": "2026-04-02",
+    "modality": "PDF",
+    "source_id": "src_b1bec5ee708d",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        135.7450714111328,
+        460.2669982910156,
+        165.97308349609375
+      ],
+      "char_span": null,
+      "snippet": "Pursuant to Section 4.2 revision of extended analytical deliverables,\nthe authorized payable total for INV-510 is officially amended from $4,500 to $5,200."
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": true
+  },
+  {
+    "claim_id": "clm_src_b1bec5ee708d_0002",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "amount",
+    "value": "$5,200",
+    "numeric_value": 5200.0,
+    "unit": "USD",
+    "timestamp": "2026-04-02",
+    "modality": "PDF",
+    "source_id": "src_b1bec5ee708d",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        181.0871124267578,
+        448.595947265625,
+        241.54315185546875
+      ],
+      "char_span": null,
+      "snippet": "LEGAL PRECEDENCE CLAUSE:\nThis binding memorandum supersedes all prior quotes, purchase order estimates,\nand preliminary approvals for INV-510, specifically incl"
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": true
+  },
+  {
+    "claim_id": "clm_src_aaf3f39e01e9_0001",
+    "entity_raw": "Invoice 402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "amount",
+    "value": "$12,000",
+    "numeric_value": 12000.0,
+    "unit": "USD",
+    "timestamp": "2026-03-10",
+    "modality": "PDF",
+    "source_id": "src_aaf3f39e01e9",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        135.7450714111328,
+        407.0269775390625,
+        181.08709716796875
+      ],
+      "char_span": null,
+      "snippet": "This official email confirms that Invoice 402 from Apex Logistics has been\nduly reviewed and approved at $12,000 on 2026-03-10.\nPurchase Order Reference: PO-984"
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_aaf3f39e01e9_0002",
+    "entity_raw": "Invoice 402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "vendor",
+    "value": "Apex Logistics",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-10",
+    "modality": "PDF",
+    "source_id": "src_aaf3f39e01e9",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        135.7450714111328,
+        407.0269775390625,
+        181.08709716796875
+      ],
+      "char_span": null,
+      "snippet": "This official email confirms that Invoice 402 from Apex Logistics has been\nduly reviewed and approved at $12,000 on 2026-03-10.\nPurchase Order Reference: PO-984"
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_aaf3f39e01e9_0003",
+    "entity_raw": "Invoice 402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "status",
+    "value": "Approved",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-10",
+    "modality": "PDF",
+    "source_id": "src_aaf3f39e01e9",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        135.7450714111328,
+        407.0269775390625,
+        181.08709716796875
+      ],
+      "char_span": null,
+      "snippet": "This official email confirms that Invoice 402 from Apex Logistics has been\nduly reviewed and approved at $12,000 on 2026-03-10.\nPurchase Order Reference: PO-984"
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_aaf3f39e01e9_0004",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "amount",
+    "value": "$4,500",
+    "numeric_value": 4500.0,
+    "unit": "USD",
+    "timestamp": "2026-03-15",
+    "modality": "PDF",
+    "source_id": "src_aaf3f39e01e9",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        196.2011260986328,
+        395.3999328613281,
+        226.42913818359375
+      ],
+      "char_span": null,
+      "snippet": "For record keeping, preliminary quotation for INV-510 from Helios Labs\nwas recorded and initially approved at $4,500 on 2026-03-15."
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_aaf3f39e01e9_0005",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "vendor",
+    "value": "Helios Labs",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-15",
+    "modality": "PDF",
+    "source_id": "src_aaf3f39e01e9",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        196.2011260986328,
+        395.3999328613281,
+        226.42913818359375
+      ],
+      "char_span": null,
+      "snippet": "For record keeping, preliminary quotation for INV-510 from Helios Labs\nwas recorded and initially approved at $4,500 on 2026-03-15."
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_aaf3f39e01e9_0006",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "status",
+    "value": "Approved",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-15",
+    "modality": "PDF",
+    "source_id": "src_aaf3f39e01e9",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        196.2011260986328,
+        395.3999328613281,
+        226.42913818359375
+      ],
+      "char_span": null,
+      "snippet": "For record keeping, preliminary quotation for INV-510 from Helios Labs\nwas recorded and initially approved at $4,500 on 2026-03-15."
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_aaf3f39e01e9_0008",
+    "entity_raw": "PO-984",
+    "entity_canonical": "ENT_PO_984",
+    "attribute": "purchase_order_reference",
+    "value": "PO-984",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-10",
+    "modality": "PDF",
+    "source_id": "src_aaf3f39e01e9",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        135.7450714111328,
+        407.0269775390625,
+        181.08709716796875
+      ],
+      "char_span": null,
+      "snippet": "This official email confirms that Invoice 402 from Apex Logistics has been\nduly reviewed and approved at $12,000 on 2026-03-10.\nPurchase Order Reference: PO-984"
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.7125,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0001",
+    "entity_raw": "INV-402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "amount",
+    "value": "12000",
+    "numeric_value": 12000.0,
+    "unit": "USD",
+    "timestamp": "2026-03-10",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 1,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-402 | amount: 12000 | vendor: Apex Logistics | date: 2026-03-10 | approver: J. Doe | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0002",
+    "entity_raw": "INV-402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "vendor",
+    "value": "Apex Logistics",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-10",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 1,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-402 | amount: 12000 | vendor: Apex Logistics | date: 2026-03-10 | approver: J. Doe | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0003",
+    "entity_raw": "INV-402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "date",
+    "value": "2026-03-10",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-10",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 1,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-402 | amount: 12000 | vendor: Apex Logistics | date: 2026-03-10 | approver: J. Doe | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0004",
+    "entity_raw": "INV-402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "approver",
+    "value": "J. Doe",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-10",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 1,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-402 | amount: 12000 | vendor: Apex Logistics | date: 2026-03-10 | approver: J. Doe | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0005",
+    "entity_raw": "INV-402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "status",
+    "value": "Approved",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-10",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 1,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-402 | amount: 12000 | vendor: Apex Logistics | date: 2026-03-10 | approver: J. Doe | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0006",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "amount",
+    "value": "4500",
+    "numeric_value": 4500.0,
+    "unit": "USD",
+    "timestamp": "2026-03-15",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 2,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-510 | amount: 4500 | vendor: Helios Labs | date: 2026-03-15 | approver: A. Smith | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0007",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "vendor",
+    "value": "Helios Labs",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-15",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 2,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-510 | amount: 4500 | vendor: Helios Labs | date: 2026-03-15 | approver: A. Smith | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0008",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "date",
+    "value": "2026-03-15",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-15",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 2,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-510 | amount: 4500 | vendor: Helios Labs | date: 2026-03-15 | approver: A. Smith | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0009",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "approver",
+    "value": "A. Smith",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-15",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 2,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-510 | amount: 4500 | vendor: Helios Labs | date: 2026-03-15 | approver: A. Smith | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0010",
+    "entity_raw": "INV-510",
+    "entity_canonical": "ENT_INV_510",
+    "attribute": "status",
+    "value": "Approved",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-15",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 2,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: INV-510 | amount: 4500 | vendor: Helios Labs | date: 2026-03-15 | approver: A. Smith | status: Approved"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0011",
+    "entity_raw": "WIRE-Q4",
+    "entity_canonical": "ENT_WIRE_Q4",
+    "attribute": "amount",
+    "value": "95000",
+    "numeric_value": 95000.0,
+    "unit": "USD",
+    "timestamp": "2026-03-20",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 3,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: WIRE-Q4 | amount: 95000 | vendor: Vendor K | date: 2026-03-20 | approver: [MISSING] | status: Pending"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0012",
+    "entity_raw": "WIRE-Q4",
+    "entity_canonical": "ENT_WIRE_Q4",
+    "attribute": "vendor",
+    "value": "Vendor K",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-20",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 3,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: WIRE-Q4 | amount: 95000 | vendor: Vendor K | date: 2026-03-20 | approver: [MISSING] | status: Pending"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0013",
+    "entity_raw": "WIRE-Q4",
+    "entity_canonical": "ENT_WIRE_Q4",
+    "attribute": "date",
+    "value": "2026-03-20",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-20",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 3,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: WIRE-Q4 | amount: 95000 | vendor: Vendor K | date: 2026-03-20 | approver: [MISSING] | status: Pending"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_3bce98178712_0014",
+    "entity_raw": "WIRE-Q4",
+    "entity_canonical": "ENT_WIRE_Q4",
+    "attribute": "status",
+    "value": "Pending",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-20",
+    "modality": "TABLE",
+    "source_id": "src_3bce98178712",
+    "location_ref": {
+      "page": null,
+      "row": 3,
+      "column": "ALL",
+      "bbox": null,
+      "char_span": null,
+      "snippet": "invoice_id: WIRE-Q4 | amount: 95000 | vendor: Vendor K | date: 2026-03-20 | approver: [MISSING] | status: Pending"
+    },
+    "extraction_confidence": 0.99,
+    "trust_score": 0.7425,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_c6d8cb7b8af6_0001",
+    "entity_raw": "Inv#402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "vendor",
+    "value": "Apex Logistics",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-10",
+    "modality": "IMAGE",
+    "source_id": "src_c6d8cb7b8af6",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        38.0,
+        179.0,
+        145.0,
+        194.0
+      ],
+      "char_span": null,
+      "snippet": "Vendor: Apex Logistics"
+    },
+    "extraction_confidence": 0.9233,
+    "trust_score": 0.1385,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_c6d8cb7b8af6_0002",
+    "entity_raw": "Inv#402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "line_item_freight",
+    "value": "$11,000.00",
+    "numeric_value": 11000.0,
+    "unit": "USD",
+    "timestamp": "2026-03-10",
+    "modality": "IMAGE",
+    "source_id": "src_c6d8cb7b8af6",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        479.0,
+        239.0,
+        535.0,
+        253.0
+      ],
+      "char_span": null,
+      "snippet": "$11,000.00"
+    },
+    "extraction_confidence": 0.8418,
+    "trust_score": 0.1263,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_c6d8cb7b8af6_0003",
+    "entity_raw": "Inv#402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "line_item_surcharge",
+    "value": "$1,000.00",
+    "numeric_value": 1000.0,
+    "unit": "USD",
+    "timestamp": "2026-03-10",
+    "modality": "IMAGE",
+    "source_id": "src_c6d8cb7b8af6",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        479.0,
+        269.0,
+        528.0,
+        283.0
+      ],
+      "char_span": null,
+      "snippet": "$1,000.00"
+    },
+    "extraction_confidence": 0.8505,
+    "trust_score": 0.1276,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_c6d8cb7b8af6_0004",
+    "entity_raw": "Inv#402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "amount",
+    "value": "$18,000.00",
+    "numeric_value": 18000.0,
+    "unit": "USD",
+    "timestamp": "2026-03-10",
+    "modality": "IMAGE",
+    "source_id": "src_c6d8cb7b8af6",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        479.0,
+        329.0,
+        535.0,
+        343.0
+      ],
+      "char_span": null,
+      "snippet": "$18,000.00"
+    },
+    "extraction_confidence": 0.8204,
+    "trust_score": 0.1231,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_7539b95e6bad_0001",
+    "entity_raw": "INV-402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "vendor",
+    "value": "Apex Logistics",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-11",
+    "modality": "PDF",
+    "source_id": "src_7539b95e6bad",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        60.17499923706055,
+        252.31202697753906,
+        135.74505615234375
+      ],
+      "char_span": null,
+      "snippet": "VENDOR SHIPMENT ADVICE & NOTES\nVendor: Apex Logistics\nDocument: Delivery Note 402-A\nRelated Invoice: INV-402\nDate: 2026-03-11"
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.0475,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_7539b95e6bad_0002",
+    "entity_raw": "INV-402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "vendor_notes",
+    "value": "Field Representative Log: Consignment arrived at regional depot dock 4 at 08:30. All shipping pallets inspected and found free of water or transit damage. Bill of lading verified against internal requisition PO-984.",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-11",
+    "modality": "PDF",
+    "source_id": "src_7539b95e6bad",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        150.8590850830078,
+        399.1180114746094,
+        211.31512451171875
+      ],
+      "char_span": null,
+      "snippet": "Field Representative Log:\nConsignment arrived at regional depot dock 4 at 08:30.\nAll shipping pallets inspected and found free of water or transit damage.\nBill "
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.0475,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_7539b95e6bad_0004",
+    "entity_raw": "INV-402",
+    "entity_canonical": "ENT_INV_402",
+    "attribute": "approver",
+    "value": "Field Representative",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-11",
+    "modality": "PDF",
+    "source_id": "src_7539b95e6bad",
+    "location_ref": {
+      "page": 1,
+      "row": null,
+      "column": null,
+      "bbox": [
+        50.0,
+        150.8590850830078,
+        399.1180114746094,
+        211.31512451171875
+      ],
+      "char_span": null,
+      "snippet": "Field Representative Log:\nConsignment arrived at regional depot dock 4 at 08:30.\nAll shipping pallets inspected and found free of water or transit damage.\nBill "
+    },
+    "extraction_confidence": 0.95,
+    "trust_score": 0.0475,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_7ec4a1caad68_0001",
+    "entity_raw": "WIRE-Q4",
+    "entity_canonical": "ENT_WIRE_Q4",
+    "attribute": "vendor",
+    "value": "Ve ndor K",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-20",
+    "modality": "SCAN",
+    "source_id": "src_7ec4a1caad68",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        151.0,
+        171.0,
+        162.0
+      ],
+      "char_span": null,
+      "snippet": "Be neficiary Name: Ve ndor K"
+    },
+    "extraction_confidence": 0.5721,
+    "trust_score": 0.3147,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_7ec4a1caad68_0002",
+    "entity_raw": "WIRE-Q4",
+    "entity_canonical": "ENT_WIRE_Q4",
+    "attribute": "amount",
+    "value": "$95,000.00",
+    "numeric_value": 95000.0,
+    "unit": "USD",
+    "timestamp": "2026-03-20",
+    "modality": "SCAN",
+    "source_id": "src_7ec4a1caad68",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        181.0,
+        230.0,
+        192.0
+      ],
+      "char_span": null,
+      "snippet": "Disburse me nt Principal: $95,000.00 USD"
+    },
+    "extraction_confidence": 0.5721,
+    "trust_score": 0.3147,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_7ec4a1caad68_0003",
+    "entity_raw": "WIRE-Q4",
+    "entity_canonical": "ENT_WIRE_Q4",
+    "attribute": "transaction_id",
+    "value": "WIRE-Q4",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-20",
+    "modality": "SCAN",
+    "source_id": "src_7ec4a1caad68",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        39.0,
+        120.0,
+        153.0,
+        133.0
+      ],
+      "char_span": null,
+      "snippet": "Transaction ID. WIRE-Q4"
+    },
+    "extraction_confidence": 0.5721,
+    "trust_score": 0.3147,
+    "is_amendment": false
+  },
+  {
+    "claim_id": "clm_src_7ec4a1caad68_0006",
+    "entity_raw": "WIRE-Q4",
+    "entity_canonical": "ENT_WIRE_Q4",
+    "attribute": "execution_date",
+    "value": "2026-03-20",
+    "numeric_value": null,
+    "unit": null,
+    "timestamp": "2026-03-20",
+    "modality": "SCAN",
+    "source_id": "src_7ec4a1caad68",
+    "location_ref": {
+      "page": null,
+      "row": null,
+      "column": null,
+      "bbox": [
+        40.0,
+        211.0,
+        168.0,
+        222.0
+      ],
+      "char_span": null,
+      "snippet": "Execution Date: 2026-03-20"
+    },
+    "extraction_confidence": 0.5721,
+    "trust_score": 0.3147,
+    "is_amendment": false
+  }
+]
