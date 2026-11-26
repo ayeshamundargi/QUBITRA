@@ -5,7 +5,6 @@
 CERBERUS-X audits heterogeneous document sets (PDFs, CSV/Parquet tables, scanned documents, and JPEG/PNG images) completely offline. Instead of flattening raw documents into unverified RAG chunks, it runs pre-LLM security forensics, extracts provenance-bound atomic claims, distinguishes temporal legal amendments (`SUPERSEDES`) from true conflicts (`CONTRADICTS`), propagates cross-modal trust over a NetworkX evidence graph, and enforces a deterministic `0.65` (`65%`) abstention safety gate.
 
 ---
-
 ## Core Architecture (`core/`)
 
 1. **Pre-LLM Forensics & Ingestion (`core/forensics.py`, `core/ingest.py`)**
@@ -30,9 +29,6 @@ CERBERUS-X audits heterogeneous document sets (PDFs, CSV/Parquet tables, scanned
    - Performs 2-hop bounded BFS (`get_entity_subgraph`) to build an `EvidenceDossier`.
    - Deterministically enforces `ABSTENTION_THRESHOLD = 0.65` in Python (`VERIFIED`, `CONFLICT_RESOLVED`, `TAMPER_DETECTED`, `INSUFFICIENT_EVIDENCE`).
    - Local `Ollama` (`127.0.0.1:11434`) serves strictly as a prose scribe over verified `EvidenceDossier` JSON.
-
----
-
 ## Setup & Usage (Windows PowerShell)
 
 ```powershell
